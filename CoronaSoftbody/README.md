@@ -1,9 +1,13 @@
 CoronaSoftbody
 
-Demonstration of softbody physics simulation in Corona SDK using hub/spoke
+Purpose: Demonstration of softbody physics simulation in Corona SDK using hub/spoke
 physics bodies.
 
-Original code from http://www.indieretro.co.uk/blog/2015/2/4/softbody-physics-with-box2d
+This is a port of LÖVE code created by @_IndieRetro
+http://www.indieretro.co.uk/blog/2015/2/4/softbody-physics-with-box2d
+
+Ported to Corona SDK by @tonygod @sharkappsllc
+
 License: http://opensource.org/licenses/Zlib
 
 This software is provided 'as-is', without any express or implied warranty. In 
