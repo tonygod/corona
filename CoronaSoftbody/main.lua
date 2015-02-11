@@ -20,8 +20,8 @@ misrepresented as being the original software.
 
 -- GLOBAL HELPERS
 _G.FORCE = 12
-_G.DEBUG = 0
-_G.FRICTION = 0
+_G.DEBUG = 0 -- 1 shows centerNode and outerNodes, 2 sets drawMode to "hybrid"
+_G.FRICTION = 0 -- does nothing right now
 
 _G.CW = display.contentWidth
 _G.CH = display.contentHeight
