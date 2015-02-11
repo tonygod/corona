@@ -1,7 +1,7 @@
 CoronaSoftbody
 
 Purpose: Demonstration of softbody physics simulation in Corona SDK using hub/spoke
-physics bodies.
+physics bodies.  Video demonatration available at http://youtu.be/qldrRJZM0NI
 
 This is a port of LÖVE code created by @_IndieRetro
 http://www.indieretro.co.uk/blog/2015/2/4/softbody-physics-with-box2d
